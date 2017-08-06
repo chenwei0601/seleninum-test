@@ -1,6 +1,7 @@
 ## git 使用
 机器A
 1. git clone `<url>`
+运行 nmp install 或 cnmp install 来安装依赖库
 增加文件
 2. git add "文件名"  或者 git add —A
 
