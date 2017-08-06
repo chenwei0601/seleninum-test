@@ -1,0 +1,19 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": "study-day01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwei0601/seleninum-test.git"
+  },
+  "author": "chenwei0601",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenwei0601/seleninum-test/issues"
+  },
+  "homepage": "https://github.com/chenwei0601/seleninum-test#readme"
+}
